@@ -15,11 +15,11 @@
 
 PCB和外壳的设计效果：
 
-![](img/1.jpg)
+![](3.Images/1.jpg)
 
-![](img/2.jpg)
+![](3.Images/2.jpg)
 
-![](img/3.jpg)
+![](3.Images/3.jpg)
 
 ### 2.软件
 
@@ -38,7 +38,7 @@ PCB和外壳的设计效果：
 
 ### 4.工具
 
-tools目录下有图片取模小工具**A-Eye-Image2array.py**,可以将图片转成C数组.
+4.Others\3.Tools目录下有图片取模小工具**A-Eye-Image2array.py**,可以将图片转成C数组.
 
 该工具以子模块的形式存在于项目中,拉取项目时请使用以下命令,以确保拉取完整.
 ```bash
